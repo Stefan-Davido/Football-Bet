@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\28.10\28.10\bin\Debug\netcoreapp3.1\28.10.exe
+C:\Users\Dell\source\repos\28.10\28.10\bin\Debug\netcoreapp3.1\28.10.deps.json
+C:\Users\Dell\source\repos\28.10\28.10\bin\Debug\netcoreapp3.1\28.10.runtimeconfig.json
+C:\Users\Dell\source\repos\28.10\28.10\bin\Debug\netcoreapp3.1\28.10.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\28.10\28.10\bin\Debug\netcoreapp3.1\28.10.dll
+C:\Users\Dell\source\repos\28.10\28.10\bin\Debug\netcoreapp3.1\28.10.pdb
+C:\Users\Dell\source\repos\28.10\28.10\obj\Debug\netcoreapp3.1\28.10.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\28.10\28.10\obj\Debug\netcoreapp3.1\28.10.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\28.10\28.10\obj\Debug\netcoreapp3.1\28.10.AssemblyInfo.cs
+C:\Users\Dell\source\repos\28.10\28.10\obj\Debug\netcoreapp3.1\28.10.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\28.10\28.10\obj\Debug\netcoreapp3.1\28.10.dll
+C:\Users\Dell\source\repos\28.10\28.10\obj\Debug\netcoreapp3.1\28.10.pdb
+C:\Users\Dell\source\repos\28.10\28.10\obj\Debug\netcoreapp3.1\28.10.genruntimeconfig.cache
